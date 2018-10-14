@@ -61,4 +61,4 @@ $ python3 demo2.py -s data/bag_side.jpeg -t data/bag_top_2.jpeg
 
 ### Future Works
 
-- Using depth measurement and stereo camera, this process cab be made more accurate, real time and efficient.
+- Using depth measurement and stereo camera, this process can be made more accurate, real time and efficient.
