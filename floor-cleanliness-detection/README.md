@@ -53,6 +53,8 @@ Using TensorFlow backend.
 clean_test.jpg CLEAN
 ```
 
+---
+
 ![Not Clean Image](https://github.com/Parassharmaa/machine-vision-challenge/blob/master/floor-cleanliness-detection/not_clean_test.jpeg)
 
 ```bash
@@ -63,6 +65,12 @@ Using TensorFlow backend.
 th.jpeg NOT CLEAN
 ```
 
+### Training Results
+
+![](https://github.com/Parassharmaa/machine-vision-challenge/blob/master/floor-cleanliness-detection/Figure_1.png)
+
+![](https://github.com/Parassharmaa/machine-vision-challenge/blob/master/floor-cleanliness-detection/Figure_2.png)
+
 ### Future Works
-- Using Capsule Nets to for efficient generalizating of the data
-- Collecting quality data
+- Using Capsule Nets for efficient generalization of the images.
+- Collecting quality data.
