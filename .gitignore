@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+floor-cleanliness-detection/data/train/
+floor-cleanliness-detection/data/validation/
+
+yolov3.weights
