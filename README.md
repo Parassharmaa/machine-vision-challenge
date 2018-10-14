@@ -17,7 +17,7 @@ My solution includes both the methods. Edge dectection was helpful in detecting 
 
 To find the dimension, first a camera is set at particular distance and calibrated using reference image. It is used to get pixel per metric (ppm). For every view field camera need to be calibrated.
 
-[View Code and Results]()
+[View Code and Results](https://github.com/Parassharmaa/machine-vision-challenge/tree/master/baggage-fitness-index)
 
 ### Floor Cleanliness Detection
 
@@ -33,7 +33,7 @@ The classifier was trained on images available on the web. The classfier reached
 
 Classifier can be improved on providing more accurate and quality data.
 
-[View Code and Results]()
+[View Code and Results](https://github.com/Parassharmaa/machine-vision-challenge/tree/master/floor-cleanliness-detection)
 
 ### Contact
 
