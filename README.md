@@ -29,7 +29,7 @@ This problem gets little complex as their can be variety of uncertain scenarios.
 
 My solutions uses a Deep Convolutional Neural Network Based object classifier that classifies floor image to clean or not clean.
 
-The classifier was trained on images available on the web. The classfier reached accuracy of around 70% when trained in ~250 images per class (plus images were also augmented)
+The classifier was trained on images available on the web. The classfier reached accuracy of around 70% when trained on ~250 images per class (plus images were also augmented)
 
 Classifier can be improved on providing more accurate and quality data.
 
