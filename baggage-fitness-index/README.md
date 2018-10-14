@@ -56,7 +56,7 @@ $ python3 demo2.py -s data/bag_side.jpeg -t data/bag_top_2.jpeg
 ![Top View](https://github.com/Parassharmaa/machine-vision-challenge/blob/master/baggage-fitness-index/outputs/Screenshot%202018-10-14%2019:48:00.png)
 
 ### Conclusion
-- Accuracy of the calculation depends on the calibration of the camera and accuracy of PPM
+- Accuracy of the calculation depends on the calibration of the camera and correctness of PPM
 
 
 ### Future Works
