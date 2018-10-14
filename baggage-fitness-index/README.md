@@ -39,8 +39,8 @@ $ pip3 install -r requirements.txt
 $ python3 calibrate -i data/calibration_1.jpeg -l 3.6 -w 3.6
 ```
 
-![]()
-![]()
+![countours](https://github.com/Parassharmaa/machine-vision-challenge/blob/master/baggage-fitness-index/outputs/Screenshot%202018-10-14%2019:42:09.png)
+![calibration](https://github.com/Parassharmaa/machine-vision-challenge/blob/master/baggage-fitness-index/outputs/Screenshot%202018-10-14%2019:42:58.png)
 
 - Run Dimension Detection
 
@@ -53,7 +53,7 @@ $ python3 demo2.py -s data/bag_side.jpeg -t data/bag_top_2.jpeg
 
 ```
 
-![Top View]()
+![Top View](https://github.com/Parassharmaa/machine-vision-challenge/blob/master/baggage-fitness-index/outputs/Screenshot%202018-10-14%2019:48:00.png)
 
 ### Conclusion
 - Accuracy of the calculation depends on the calibration of the camera and accuracy of PPM
