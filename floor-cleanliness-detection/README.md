@@ -43,7 +43,7 @@ $ python3 predict.py -i clean_test.jpg
 
 ### Results
 
-![Clean Image]()
+![Clean Image](https://github.com/Parassharmaa/machine-vision-challenge/blob/master/floor-cleanliness-detection/clean_test.jpg)
 
 ```bash
 $ python3 predict.py -i clean_test.jpg
@@ -53,7 +53,7 @@ Using TensorFlow backend.
 clean_test.jpg CLEAN
 ```
 
-![Not Clean Image]()
+![Not Clean Image](https://github.com/Parassharmaa/machine-vision-challenge/blob/master/floor-cleanliness-detection/not_clean_test.jpeg)
 
 ```bash
 $ python3 predict.py -i not_clean_test.jpeg
