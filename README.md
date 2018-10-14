@@ -6,16 +6,16 @@
 
 #### Abstract
 
-Solution to this process is a two phase process i.e finding the object and then calculating the dimensions of side view and top view of the object.
+Solution to this process is a two-phase process i.e finding the object and then calculating the dimensions of the side view and top view of the object.
 
 To detect and localize the object 2 methods can be used
 
-1. Edge Dectection
+1. Edge Detection
 2. Object Localization using Deep Learning.
 
-My solution includes both the methods. Edge dectection was helpful in detecting rectangular object but performed poorly sometimes. Second method uses yolo-v3 model to detect baggages, backpacks and analyse the bounding box.
+My solution includes both the methods. Edge detection was helpful in detecting rectangular object but performed poorly sometimes. The second method uses the Yolo-v3 model to detect baggage, backpacks and analyze the bounding box.
 
-To find the dimension, first a camera is set at particular distance and calibrated using reference image. It is used to get pixel per metric (ppm). For every view field camera need to be calibrated.
+To find the dimension, first, a camera is set at a particular distance and calibrated using the reference image. It is used to get pixel per metric (ppm). For every view, the camera needs to be calibrated.
 
 [View Code and Results](https://github.com/Parassharmaa/machine-vision-challenge/tree/master/baggage-fitness-index)
 
@@ -25,13 +25,13 @@ To find the dimension, first a camera is set at particular distance and calibrat
 
 #### Abstract
 
-This problem gets little complex as their can be variety of uncertain scenarios. Therefore a heuristics based algorithm might fail occasionally.
+This problem gets a little complex as there can be a variety of uncertain scenarios. Therefore a heuristics based algorithm might fail occasionally.
 
-My solutions uses a Deep Convolutional Neural Network Based object classifier that classifies floor image to clean or not clean.
+My solutions use a Deep Convolutional Neural Network Based object classifier that classifies floor image to clean or not clean.
 
-The classifier was trained on images available on the web. The classfier reached accuracy of around 70% when trained on ~250 images per class (plus images were also augmented)
+The classifier was trained on images available on the web. The classifier reached an accuracy of around 70% when trained on ~250 images per class (plus images were also augmented)
 
-Classifier can be improved on providing more accurate and quality data.
+The classifier can be improved on providing more accurate and quality data.
 
 [View Code and Results](https://github.com/Parassharmaa/machine-vision-challenge/tree/master/floor-cleanliness-detection)
 
